@@ -1,0 +1,3 @@
+today is our 
+python 
+lecture.
